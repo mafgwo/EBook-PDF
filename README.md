@@ -7,7 +7,7 @@
 
 #### 网络应用框架 ####
 1. [Netty权威指南第2版.pdf](网络应用框架/Netty权威指南第2版.pdf)
-2. []
+2. [HTTP权威指南.pdf](网络应用框架/HTTP权威指南.pdf)
 
 ----------
 
@@ -107,5 +107,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM0OTc2NjZdfQ==
+eyJoaXN0b3J5IjpbMTM3NzQ4MzA1XX0=
 -->
